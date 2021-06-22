@@ -1,0 +1,6 @@
+/dist/
+/venv/
+/build/
+/.idea/
+/__pycache__
+/pfa.spec
